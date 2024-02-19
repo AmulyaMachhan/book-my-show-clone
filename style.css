@@ -275,7 +275,6 @@ main{
     display: flex;
     gap: 25px;
     overflow-x: auto;
-
 }
 .card{
     display: flex;
@@ -301,7 +300,6 @@ main{
 .card .name{
     font-weight: 500;
     font-size: 1.1rem;
-    line-height: 1.2;
 }
 .card .type{
     font-weight: 300;
@@ -719,9 +717,11 @@ main{
         height: 150px;
     }
     .card .name{
+        line-height: 1;
         font-size: 0.7rem;
     }
     .card .type{
+        line-height: 1;
         font-size: 0.5rem;
     }
     .right-arrow{

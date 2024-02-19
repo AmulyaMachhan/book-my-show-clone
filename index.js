@@ -1,3 +1,4 @@
+// for side-bar menu
 document.addEventListener("DOMContentLoaded" , function (){
     const btn = document.getElementById('menu');
     const menuContainer = document.querySelector(".menu-container"); 
@@ -5,6 +6,7 @@ document.addEventListener("DOMContentLoaded" , function (){
     const slides = document.querySelectorAll(".slides div");
 
     btn.addEventListener( "click" , function (event) {
+
         if(menuContainer.style.display === "none"){
             event.stopPropagation();
             menuContainer.style.display = "block" ;
@@ -28,7 +30,7 @@ document.addEventListener("DOMContentLoaded" , function (){
         }
     });
 
-    
+    // menu bar closes whenever clicked anywhere outside it
     document.addEventListener("click" , function (event) {
         if ( !menuContainer.contains(event.target) && event.target !== btn){
             menuContainer.style.display = "none";
