@@ -10,8 +10,7 @@ You can view the site [here](https://amulyamachhan.github.io/book-my-show-clone/
 - **Interactive Sidebar:** Access additional navigation options conveniently through the sidebar menu.
 
 ## Screenshots
-
-![amulyamachhan github io_book-my-show-clone_](https://github.com/AmulyaMachhan/book-my-show-clone/assets/111338400/f993588e-f144-400a-8213-383c886f96e5)
+![amulyamachhan github io_book-my-show-clone_](https://github.com/AmulyaMachhan/book-my-show-clone/assets/111338400/edab2c19-44ef-4cfc-ba14-bd0200e91e10)
 
 ## Technologies Used
 
