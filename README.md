@@ -3,14 +3,15 @@
 Welcome to the BookMyShow Landing Page project! This project is a responsive web page inspired by the popular online ticketing platform BookMyShow. It features a sleek and modern design aimed at providing users with an immersive browsing experience for discovering and booking events, movies, and shows.
 
 You can view the site [here](https://amulyamachhan.github.io/book-my-show-clone/).
+
+## Screenshots
+![bookmyshow](https://github.com/AmulyaMachhan/book-my-show-clone/assets/111338400/d890939e-7f20-43ad-9a59-f75aa37f1255)
+
 ## Features
 
 - **Responsive Design:** Enjoy a seamless experience across devices, from desktops to smartphones and tablets.
 - **Event Listings:** Browse through a curated selection of upcoming events, movies, and shows.
 - **Interactive Sidebar:** Access additional navigation options conveniently through the sidebar menu.
-
-## Screenshots
-![amulyamachhan github io_book-my-show-clone_](https://github.com/AmulyaMachhan/book-my-show-clone/assets/111338400/edab2c19-44ef-4cfc-ba14-bd0200e91e10)
 
 ## Technologies Used
 
